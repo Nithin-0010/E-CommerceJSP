@@ -1,0 +1,78 @@
+@charset "ISO-8859-1";
+body {
+    height: 100%;
+    position: relative;
+    background-color: #FFFFFF; 
+    font-family: Arial, sans-serif;
+}
+
+.main {
+    position: absolute;
+    display: flex;
+    width: 50%;
+    padding-top: 5%;
+    left: 25%;
+}
+
+.signup {
+    width: 40%;
+    height: 100%;
+    background-color: rgba(211, 211, 211, 1.0); 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.site-info {
+    width: 60%;
+    background-color: #28A745; 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#userData {
+    width: 240px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #28A745; 
+}
+
+#sign_btn {
+    width: 240px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #FFFFFF; 
+    background-color: #28A745; 
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+#sign_btn:hover {
+    background-color: #218838; 
+    color: #FFFFFF; 
+}
+
+.info-header-head {
+    color: #FFFFFF;
+}
+
+#signOk {
+    color: #16FF00; 
+}
+
+#signFail {
+    color: #CD1818;
+}
+
+.info-text p {
+    color: #FFFFFF; 
+}
+
+#log a {
+    color: #28A745; 
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+  .main {
+    height: 65vh;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+    width: 50%;
+    margin-left: 38%;
+  }
+  
+  .signup {
+    width: 40%;
+    height: 78%;
+    background-color: rgba(211, 211, 211, 1.0); 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#userData {
+    width: 240px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #28A745; 
+}
+
+#sign_btn {
+    width: 240px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #FFFFFF; 
+    background-color: #28A745; 
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+#sign_btn:hover {
+    background-color: #218838; 
+    color: #FFFFFF; 
+}

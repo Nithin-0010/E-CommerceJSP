@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #FFFFFF;
+  }
+  
+  .main {
+    height: 70vh;
+  }
+  
+  .content {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+  }
+  
+  .note {
+     width: 80%;
+     margin-left:10%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+  }

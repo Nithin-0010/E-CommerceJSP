@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    background-color: #FFFFFF; 
+    font-family: Arial, sans-serif;
+}
+
+.main {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.main input {
+	height: 100px;
+}
+.btn button {
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+    height: 30px;
+    border-radius: 10px;
+    background: #28A745; 
+    color: #FFFFFF;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.btn button:hover {
+    background-color: #218838; 
+    color: #FFFFFF; 
+}

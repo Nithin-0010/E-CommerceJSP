@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+  .main {
+    height: 72vh;
+    margin: 0;
+    background-color: #FFFFFF;
+  }
+  
+  table {
+    border-radius: 10px;
+    border: 1px solid #28A745; 
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #28A745;
+    padding: 10px;
+}
+
+th {
+    height: 40px;
+    background-color: #28A745; 
+    color: #FFFFFF; 
+}
+
+td {
+    height: 30px;
+    background-color: #E8F5E9; 
+    color: #000000; 
+}
+
+td a {
+    color: #28A745; 
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+td a:hover {
+    color: #218838; 
+}

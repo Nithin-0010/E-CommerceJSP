@@ -1,0 +1,84 @@
+@charset "ISO-8859-1";
+body {
+    height: 100%;
+    position: relative;
+    background-color: #FFFFFF; /* White */
+    font-family: Arial, sans-serif;
+}
+
+.main {
+    position: absolute;
+    display: flex;
+    width: 50%;
+    padding-top: 5%;
+    left: 25%;
+}
+
+.login {
+    width: 40%;
+    height: 100%;
+    background-color: rgba(211, 211, 211, 1.0); /* Primary Green with opacity */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.site-info {
+    width: 60%;
+    background-color: #28A745; /* Primary Green */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.labels {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#mail, #pass {
+    width: 240px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #28A745; /* Primary Green */
+}
+
+#log_btn {
+    width: 240px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #FFFFFF; /* White */
+    background-color: #28A745; /* Primary Green */
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+#log_btn:hover {
+    background-color: #218838; /* Secondary Green */
+    color: #FFFFFF; /* White */
+}
+
+.info-header h3 {
+    color: #FFFFFF; /* White */
+}
+
+.info-text p {
+    color: #FFFFFF; /* White */
+}
+
+.main .login form h3 a {
+    color: #28A745; /* Primary Green */
+    display: flex;
+    justify-content: center;
+}
+
+.main .login form p a {
+    color: #28A745; /* Primary Green */
+}
+
+#notFound {
+    color: #CD1818; /* Red for error messages */
+}
