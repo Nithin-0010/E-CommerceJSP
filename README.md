@@ -7,7 +7,7 @@ while users can browse products, manage their cart, and complete purchases.
 ## Features
 ### Admin
 - Add/Remove Products: Admins can add new products to the inventory or remove existing products.
-  ![image alt](https://github.com/Nithin-0010/E-CommerceJSP/blob/819aa3bf19aa41bcea31ec1d6b5b633bf3d09da3/viewAndEditProducts.jpg)
+  ![image alt](https://github.com/Nithin-0010/E-CommerceJSP/blob/b6bfad40925aa187664b61d0e439e8ae9b8bf42a/addProducts.jpg)
 - View Products: Admins can view all products currently in the inventory.
 - View Orders:
   - Received Orders: View all orders placed by users that are pending delivery.
