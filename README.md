@@ -17,6 +17,8 @@ while users can browse products, manage their cart, and complete purchases.
 
     ![image alt](https://github.com/Nithin-0010/E-CommerceJSP/blob/8d6e13d33f78275ed00679a5ed49565108a8207d/orderHistory.jpg)
   - Delivered Orders: View all orders that have been successfully delivered.
+
+    ![image alt](https://github.com/Nithin-0010/E-CommerceJSP/blob/040a56b23c659e0a72011026b1f278c8b2f89a7b/deliveredOrders.jpg)
 - User Messages: View messages sent by users for inquiries or support.
 
 ### User
