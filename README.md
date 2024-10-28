@@ -9,6 +9,7 @@ while users can browse products, manage their cart, and complete purchases.
 - Add/Remove Products: Admins can add new products to the inventory or remove existing products.
   ![image alt](https://github.com/Nithin-0010/E-CommerceJSP/blob/b6bfad40925aa187664b61d0e439e8ae9b8bf42a/addProducts.jpg)
 - View Products: Admins can view all products currently in the inventory.
+  ![image alt](https://github.com/Nithin-0010/E-CommerceJSP/blob/8f204af137b910bc90d7332f82ce272726139c56/viewAndEditProducts.jpg)
 - View Orders:
   - Received Orders: View all orders placed by users that are pending delivery.
   - Delivered Orders: View all orders that have been successfully delivered.
